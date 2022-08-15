@@ -21,3 +21,13 @@ To get started with this template:
 
 * [Rust Smart Contract Quick Start](https://docs.near.org/develop/prerequisites)
 * [Rust SDK Book](https://www.near-sdk.io/)
+
+
+## BREAD _DISTRIBUTION
+ I have created this program which describes my bread distribution managemenet system from the wholesaler to the customers
+ # Considerations
+ 1. Manfucturing.
+ 2. Distribution among the shops
+ 3. Total inventory in the shops
+ 4. Total sales in the shops
+ 
